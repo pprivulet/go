@@ -1,0 +1,4 @@
+go
+==
+
+go game demo
